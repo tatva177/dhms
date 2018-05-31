@@ -1,4 +1,4 @@
 <?php
-    echo 'This is the first message of master branch';
-    echo 'DHMS test branch';
+    echo 'This is the first message of testing branch';
+    echo 'DHMS testing branch';
 ?>
